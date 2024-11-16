@@ -95,7 +95,7 @@ public class Window extends Screen {
         float bar = 100;
         mc.gameRenderer.setupOverlayRendering(2);
         RenderUtil.Render2D.drawRoundedCorner(position.x + bar, position.y, size.x - bar, size.y, new Vector4f(0, 0, 8, 8), dark);
-        mc.getTextureManager().bindTexture(new ResourceLocation("damster/images/ui/menu.jpg"));
+        mc.getTextureManager().bindTexture(new ResourceLocation("expensive/images/ui/menu.jpg"));
         RenderUtil.Render2D.drawRoundedCorner(position.x + bar, position.y, size.x - bar, size.y, new Vector4f(0, 0, 8, 8));
         RenderUtil.Render2D.drawRoundedCorner(position.x, position.y, bar, size.y, new Vector4f(8, 8, 0, 0), RenderUtil.reAlphaInt(medium, 200));
         RenderUtil.Render2D.drawRect(position.x + bar, position.y, 0.5f, size.y, RenderUtil.reAlphaInt(light, 50));
