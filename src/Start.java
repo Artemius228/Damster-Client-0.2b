@@ -3,7 +3,6 @@ import java.util.Arrays;
 import net.minecraft.client.main.Main;
 import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.GL20;
-
 public class Start
 {
     public static void main(String[] args)
