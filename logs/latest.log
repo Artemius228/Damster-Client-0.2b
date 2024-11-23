@@ -1242,3 +1242,10 @@ java.io.FileNotFoundException: icons/icon_16x16.png
 [18:24:49] [ForkJoinPool.commonPool-worker-1/INFO]: [STDOUT]: Saved region successfully
 [18:24:49] [pool-3-thread-2/INFO]: [STDOUT]: Saved region successfully
 [18:24:49] [pool-3-thread-2/INFO]: [STDOUT]: World save took 165ms
+[18:34:49] [pool-3-thread-2/INFO]: [STDOUT]: Saving region 1,-7 to disk .\baritone\FiverAnarhy.aternos.me_57412\cache
+[18:34:49] [ForkJoinPool.commonPool-worker-2/INFO]: [STDOUT]: Saving region 1,-6 to disk .\baritone\FiverAnarhy.aternos.me_57412\cache
+[18:34:49] [ForkJoinPool.commonPool-worker-2/INFO]: [STDOUT]: Saved region successfully
+[18:34:49] [pool-3-thread-2/INFO]: [STDOUT]: Saved region successfully
+[18:34:49] [pool-3-thread-2/INFO]: [STDOUT]: World save took 197ms
+[18:35:35] [main/INFO]: Stopping!
+[18:35:35] [Client Shutdown Thread/INFO]: [STDOUT]: Expensive Shutdown!
