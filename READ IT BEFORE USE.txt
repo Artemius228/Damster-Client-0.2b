@@ -1,5 +1,0 @@
-DAMSTER CLIENT
-
-
-Don't use start.exe it is debug file, stat client only by java.
-To start you need a java, download here https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
