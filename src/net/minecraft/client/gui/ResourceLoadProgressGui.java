@@ -68,7 +68,7 @@ public class ResourceLoadProgressGui extends LoadingGui {
 
     public EaseBackIn animation = new EaseBackIn(1250, 1, 2F, Direction.FORWARDS);
 
-    private BetterText text = new BetterText(Arrays.asList("thinking...", "launching...", "doing...", "zary...", "almost done...", "your pizza will be in 20 minutes", "waite", "seriusly?", "it havent loaded?", "Waite soon well be done!", "@MartaMak шлюха безмамная", "ok skip it."), 800);
+    private BetterText text = new BetterText(Arrays.asList("думаю...", "запускаю...", "у лобзіка мать здохла...", "зараз...", "майже готово...", "ваша піца буде черещ 52 хвилини", "зачекайте", "why so surios?", "ще не загрузило?", "Зачекай скоро буде готово", "@MartaMak шлюха безмамная", "Ок пропусти це."), 599);
 
 
     public void render(MatrixStack matrixStack, int mouseX, int mouseY, float partialTicks) {
